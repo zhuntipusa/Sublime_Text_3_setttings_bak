@@ -1,0 +1,4 @@
+{
+   "open_new_tabs_at": "far_right", // available options: far_right (default) or far_left
+   "files_only": false, // available options: false (default) or true
+}

@@ -1,0 +1,56 @@
+{
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_indent": true,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "match_selection",
+	"enable_hexadecimal_encoding": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__"
+	],
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_selection": true,
+	"match_tags": true,
+	"oepn_files_in_new_tab": true,
+	"oepn_files_in_new_window": true,
+	"pep8":
+	{
+		"@disable": false,
+		"args":
+		[
+		],
+		"excludes":
+		[
+		],
+		"ignore": "E501,C0301,W0142,W0402,R0201,E1101,E1102,C0103,R0901,R0903,R0904,C1001,W0223,W0232,W0201,E1103,R0801,C0111",
+		"max-line-length": 100,
+		"select": ""
+	},
+	"remember_open_files": true,
+	"rulers":
+	[
+		79
+	],
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"use_tab_stops": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
